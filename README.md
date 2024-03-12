@@ -14,23 +14,58 @@
 - [English](#english)
 
 ## Général
-1.	Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels permettant ce contexte
+1.	Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels permettant ce contexte 
+-   MAMP(pour Mac) et WAMP + LAMP (pour Windows)
+
 2.	Qu’est-ce qu’un algorithme ?  
+-   Un algorithme est un ensemble de règles données permettant d'accomplir une tâche précis   
+
 3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
+-   Une variable est une valeur a qui on associe un nom pour mieux l'identifier, Une variable en PHP commence par le signe $ : $var
+
 4.	Qu’est-ce que la portée d’une variable ?
+-   C'est l'accessibilité de la variable, elle peut être dans la fonction ou global dans les fichiers 
+
 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
+-   La constante une fois déclaré avec une valeur donnée elle n'est plus modifiable, alors qu'une variable peut être modifiée 
+
 6.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
+-   Une superGlobal est une variable accessible dans n'importe quel script PHP , il en existe 9, quelques exemples : $_GET(utilisé pour les URL) $_POST(utilisé pour les formulaires) $_COOKIE(stock les données du navigateur  $_SESSION(regroupe les données transmît des supGlobal $_get $_post et $_cookie)
+
 7.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+-   Voici les types primitifs en PHP : const, string, float, int, bool, array, null, avec quelques exemples d'utilisation  : int $var , bool bolean , array tableau
+
 8.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
+-   Oui, il y'a des "tableaux indexés : array('a', 'b', 'c', 'd')", tableaux associatifs : array('a'=>1, 'b'=>'text', 'c'=>2, 'd'=>12), tableaux multidimentionnelle sont des tableaux qui contiennent d'autres tableaux, tableaux dynamique et tableaux constante.
+
 9.	Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
+-   
+
 10.	Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
+-   strlen()
+
 11.	Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
+-   La session est un moyen simple pour stocker les données de chaque utilisateur individuellement en utilisant un identifiant unique, la fonction qui permet de démarrer une session $_SESSION
+
 12.	Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
+-   Contient les données stockées du navigateur client,  
+
 13.	Quelle est la différence entre les instructions « require » et « include » en PHP
+-   Les deux permettents de charger les fichiers, la seule différence entre les deux c'est que "require" affichera une erreur si le fichier n'existe alors que "include" n'affichera rien comme avertissement.
+
 14.	Comment effectuer une redirection en PHP ?
+-   Faut utiliser la fonction header() et elle permet de renvoyer l'internaut d'une page a l'autre 
+
 15.	Définir la partie « front-end » et « back-end » d’une application
+-   La partie Front-End est la partie visuel de l'application visible et consultable par le client, La partie Back-End est la partie invisible de l'application où les données et le réseau sont est gérée   
+
+
 16.	Définir le contrôle de version ? Qu’est-ce que Git ?
+-
+
 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
+-
+
 
 ## Front-end
 18.	Définir HTML
