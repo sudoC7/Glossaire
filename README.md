@@ -61,30 +61,67 @@
 
 
 16.	Définir le contrôle de version ? Qu’est-ce que Git ?
--
+- désigne la pratique a suivre et a gérer les changements apportées au code d'un logiciel, Git est un logiciel de gestion de versions décentralisé 
 
 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
--
+- Content Management System, c'est un logiciel en ligne qui permet de crée, modifier, et gérer facilement des sites en ligne, sans avoir besoin de connaissance en langage informatique, WordPress.
+TYPO3
 
 
 ## Front-end
 18.	Définir HTML
+-   C'est un langage de balisage informatique, il permet construire la squelette du site 
+
 19.	Définir CSS
+-   C'est un langage de feuille de style pour la structure du HTML, il permet décorer la structure du site 
+
 20.	Définir Javascript
+-   C'est le seul langage utilisé en BACK et FRONT, en back il est utilisé côté serveur et en front pour l'intéractivité et le dynamisme du site 
+
+
 21.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
+-
+
 22.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
+-   Oui 
+
 23.	Qu’est-ce qu’un sélecteur CSS ?
+-
+
 24.	Quelle balise HTML permet de créer un lien hypertexte ?
+-
+
 25.	Qu’est-ce qu’une requête AJAX ?
+-
+
 26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+-
+
 27.	Définir le responsive design
+-
+
 28.	Qu’est-ce que le templating ?
+-
+
 29.	Qu’est-ce qu’une fonction anonyme en Javascript ?
+-
+
 30.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+-
+
 31.	Qu’est-ce qu’un « media query » ?
+-
+
 32.	Qu’est-ce qu’un pseudo élément en CSS ?
+-
+
 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+-
+
 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
+-
+
+
 
 ## UX UI
 35.	Quelle est la différence entre UX Design et UI Design ?
