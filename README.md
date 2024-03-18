@@ -78,30 +78,29 @@ TYPO3
 20.	Définir Javascript
 -   C'est le seul langage utilisé en BACK et FRONT, en back il est utilisé côté serveur et en front pour l'intéractivité et le dynamisme du site 
 
-
 21.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
--
+-   JSON (JavaScript Object Notation) est un format de données léger et facile à lire, basé sur du texte, qui est couramment utilisé pour l'échange de données sur le web.
 
 22.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
--   Oui 
+-   Oui, il peut être interpréter avec le moteur Node.js. Il est souvent utilisé pour créer des applications web côté serveur, des API, des outils en ligne de commande, etc.
 
 23.	Qu’est-ce qu’un sélecteur CSS ?
--
+-   Un sélecteurs est utilisé pour cibler un élément HTML
 
 24.	Quelle balise HTML permet de créer un lien hypertexte ?
--
+-   La balise <a> permet de crée un lien hypertexte 
 
 25.	Qu’est-ce qu’une requête AJAX ?
--
+-   Technique de développement web qui permet d'actualiser une partie d'une page sans la recharger entièrement
 
 26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
--
+-   
 
 27.	Définir le responsive design
--
+-   Ajuste automatiquement l’affichage d’une page web à la taille d’écran du terminal utilisé.
 
 28.	Qu’est-ce que le templating ?
--
+-   
 
 29.	Qu’est-ce qu’une fonction anonyme en Javascript ?
 -
@@ -116,7 +115,7 @@ TYPO3
 -
 
 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
--
+-   C'est un framework de CSS qui organise et gère la mise en page d'un site web
 
 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 -
