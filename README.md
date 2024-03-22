@@ -94,7 +94,7 @@ TYPO3
 -   Technique de développement web qui permet d'actualiser une partie d'une page sans la recharger entièrement
 
 26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
--   div 
+-   
 
 27.	Définir le responsive design
 -   Ajuste automatiquement l’affichage d’une page web à la taille d’écran du terminal utilisé.
