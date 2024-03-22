@@ -61,11 +61,10 @@
 
 
 16.	Définir le contrôle de version ? Qu’est-ce que Git ?
-- désigne la pratique a suivre et a gérer les changements apportées au code d'un logiciel, Git est un logiciel de gestion de versions décentralisé 
+-   Désigne la pratique a suivre et a gérer les changements apportées au code d'un logiciel, Git est un logiciel de gestion de versions décentralisé 
 
 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
-- Content Management System, c'est un logiciel en ligne qui permet de crée, modifier, et gérer facilement des sites en ligne, sans avoir besoin de connaissance en langage informatique, WordPress.
-TYPO3
+-   Content Management System, c'est un logiciel en ligne qui permet de crée, modifier, et gérer facilement des sites en ligne, sans avoir besoin de connaissance en langage informatique, WordPress. TYPO3
 
 
 ## Front-end
@@ -94,31 +93,36 @@ TYPO3
 -   Technique de développement web qui permet d'actualiser une partie d'une page sans la recharger entièrement
 
 26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
--   
+-   "#container * {}"<--- l'étoile permet de sélectionner tous les éléments de l'identifiant, ".container * {}"<--- Permet de selectionner tous les éléments du class spécifique 
 
 27.	Définir le responsive design
 -   Ajuste automatiquement l’affichage d’une page web à la taille d’écran du terminal utilisé.
 
 28.	Qu’est-ce que le templating ?
--   
+-   Le templating fait référence à la pratique de créer des modèles de pages ou de composants réutilisables qui définissent la structure et le design visuel des sites web. 
 
 29.	Qu’est-ce qu’une fonction anonyme en Javascript ?
--
+-   C'est une fonction sans nom associé, exemple -->
 
+  let addition = function(a, b) {
+    return a + b;
+  };
+ 
 30.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
--
+-   C'est la méthode push(), il permet d'ajouter un élément a la fin d'un tableau
 
 31.	Qu’est-ce qu’un « media query » ?
--
+-   Media queries est un module CSS3 permettant d'adapter le contenu d'une page web aux caractéristiques de l'appareil de l'utilisateur.
 
 32.	Qu’est-ce qu’un pseudo élément en CSS ?
--
+-   C'est un mot-clé ajouté à un sélecteur qui permet de mettre en forme certaines parties de l'élément ciblé par la règle
 
 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
 -   C'est un framework de CSS qui organise et gère la mise en page d'un site web
 
 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
--
+-   Méthode GET : Cette méthode envoie les données du formulaire en tant que paramètres de l'URL dans la requête HTTP
+-   Méthode POST : Cette méthode envoie les données du formulaire dans le corps de la requête HTTP.
 
 
 
@@ -267,15 +271,15 @@ h.	Concaténer 2 chaînes de caractères
  
 ## English
 1)	What does JavaScript enable you to do on a website ?
-a.	Add interactive behavior and dynamic content
+a.	Add interactive behavior and dynamic content <--- √
 b.	Define the layout and design of web pages
-c.	Handle server-side operations
+c.	Handle server-side operations <--- √
 2)	Which programming language is primarily used for server-side web development ?
-a.	PHP
-b.	JavaScript
-c.	HTML
+a.	PHP <--- √
+b.	JavaScript <--- √
+c.	HTML <-- X
 3)	What is the purpose of a web browser ?
-a.	To render and display web pages
+a.	To render and display web pages <--- √
 b.	To execute serve-side code
 c.	To manage databases
 4)	What is the difference between GET and POST methods in HTTP ?
