@@ -128,30 +128,57 @@
 
 ## UX UI
 35.	Quelle est la différence entre UX Design et UI Design ?
+-   L'UI Design se concentre sur l'aspect visuel et interactif d'un produit ou d'un service numérique. L'UX Design se concentre sur l'expérience globale de l'utilisateur lors de l'interaction avec un produit ou un service numérique.
+
 36.	Qu’est-ce qu’un wireframe ? 
+-   Un wireframe est une représentation visuelle simplifiée et structurée d'une interface utilisateur ou d'une page web.
+
 37.	Qu’est-ce qu’un prototype ? 
+
 38.	Qu’est-ce que la hiérarchie visuelle en UI Design ?
+
 39.	Qu’est-ce que l’accessibilité en UX Design ? 
+
 40.	Qu’est-ce qu’une grille de mise en page ?
+
 41.	Qu’est-ce que la notion d’affordance en UX Design ?
+
 42.	Qu’est-ce qu’un « mobile first design » ?
+
 IV. Programmation orientée objet (POO)
+
 43.	Donner une définition de la programmation orientée objet 
+
 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
+
 45.	Qu’est-ce qu’un objet ?
+
 46.	Définir la notion de propriété / attribut / méthode
+
 47.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
+
 48.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
+
 49.	Qu’est-ce que l’encapsulation ?
+
 50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
+
 51.	Définir l’opérateur de résolution de portée
+
 52.	Définir une méthode / propriété statique
+
 53.	Définir le polymorphisme en POO
+
 54.	Définir une méthode / classe abstraite ?
+
 55.	Définir le chaînage de méthodes
+
 56.	Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
+
 57.	Qu’est-ce qu’un « autoload » ?
+
 58.	Comment appelle-t-on en français les « getters » et les « setters » ?
+
 59.	Qu’est-ce que la sérialisation en PHP ? 
 
 ## Architecture 
