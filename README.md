@@ -148,6 +148,7 @@
 IV. Programmation orientée objet (POO)
 
 43.	Donner une définition de la programmation orientée objet 
+-   La programmation orientée objet (POO) est un paradigme de programmation qui repose sur le concept d'objets, qui sont des entités regroupant à la fois des données (appelées propriétés ou attributs) et des fonctions (appelées méthodes) qui agissent sur ces données.
 
 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 
