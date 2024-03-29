@@ -144,6 +144,7 @@
 41.	Qu’est-ce que la notion d’affordance en UX Design ?
 
 42.	Qu’est-ce qu’un « mobile first design » ?
+-   Le "mobile-first design" est une approche de conception web qui consiste à concevoir d'abord une version optimisée pour les appareils mobiles, puis à élargir cette conception pour s'adapter aux écrans de taille plus grande, tels que les tablettes et les ordinateurs de bureau.
 
 IV. Programmation orientée objet (POO)
 
