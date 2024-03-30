@@ -140,6 +140,7 @@
 39.	Qu’est-ce que l’accessibilité en UX Design ? 
 
 40.	Qu’est-ce qu’une grille de mise en page ?
+-   Elle permet de découper le format dans sa largeur et dans sa hauteur en plusieurs parties égales 
 
 41.	Qu’est-ce que la notion d’affordance en UX Design ?
 
