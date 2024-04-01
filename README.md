@@ -155,6 +155,7 @@ IV. Programmation orientée objet (POO)
 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 
 45.	Qu’est-ce qu’un objet ?
+-   Un objet est une instance d'une classe 
 
 46.	Définir la notion de propriété / attribut / méthode
 
