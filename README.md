@@ -136,7 +136,7 @@
 37.	Qu’est-ce qu’un prototype ? 
 
 38.	Qu’est-ce que la hiérarchie visuelle en UI Design ?
-
+-   C'est un principe de design qui fait référence à la manière dont les éléments sont disposés dans un design
 39.	Qu’est-ce que l’accessibilité en UX Design ? 
 
 40.	Qu’est-ce qu’une grille de mise en page ?
