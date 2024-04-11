@@ -134,6 +134,7 @@
 -   Un wireframe est une représentation visuelle simplifiée et structurée d'une interface utilisateur ou d'une page web.
 
 37.	Qu’est-ce qu’un prototype ? 
+-   Un prototype est une déclaration anticipée d'une fonction ou d'une méthode avant sa définition complète
 
 38.	Qu’est-ce que la hiérarchie visuelle en UI Design ?
 -   C'est un principe de design qui fait référence à la manière dont les éléments sont disposés dans un design
