@@ -155,7 +155,7 @@ IV. Programmation orientée objet (POO)
 -   La programmation orientée objet (POO) est un paradigme de programmation qui repose sur le concept d'objets, qui sont des entités regroupant à la fois des données (appelées propriétés ou attributs) et des fonctions (appelées méthodes) qui agissent sur ces données.
 
 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
-
+-   Une classe en programmation est une structure de données qui permet de définir un ensemble de variables et de fonctions qui représentent un concept ou une entité. Pour déclarer une classe, on utilise le mot-clé "class" exemple : class MaClasse {..Contenue de la classe..}
 45.	Qu’est-ce qu’un objet ?
 -   Un objet est une instance d'une classe 
 
