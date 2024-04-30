@@ -160,6 +160,7 @@ IV. Programmation orientée objet (POO)
 -   Un objet est une instance d'une classe 
 
 46.	Définir la notion de propriété / attribut / méthode
+-   propriété : est un élément de description d'un objet, attribut : est une variable d'une classe, méthode :  est une fonction qui est à l'intérieur d'une classe 
 
 47.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
 
