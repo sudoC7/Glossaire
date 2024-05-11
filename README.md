@@ -163,30 +163,43 @@ IV. Programmation orientée objet (POO)
 -   propriété : est un élément de description d'un objet, attribut : est une variable d'une classe, méthode :  est une fonction qui est à l'intérieur d'une classe 
 
 47.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
+-   On a PRIVATE qui n'est accessible que dans le fichier ou dans le classe défini, PUBLIC qui est accessible de partout, et PROTECTED équivalent à "private" mais accessible également dans les classes héritées
 
 48.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
+-   Le constructeur est une méthode spéciale de la classe qui est automatiquement appelée lorsqu'un nouvel objet de cette classe est crée/instancié 
 
 49.	Qu’est-ce que l’encapsulation ?
+-   
 
 50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
+-
 
 51.	Définir l’opérateur de résolution de portée
+-
 
 52.	Définir une méthode / propriété statique
+-
 
 53.	Définir le polymorphisme en POO
+-
 
 54.	Définir une méthode / classe abstraite ?
+-
 
 55.	Définir le chaînage de méthodes
+-
 
 56.	Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
+-
 
 57.	Qu’est-ce qu’un « autoload » ?
+-
 
 58.	Comment appelle-t-on en français les « getters » et les « setters » ?
+-
 
 59.	Qu’est-ce que la sérialisation en PHP ? 
+-
 
 ## Architecture 
 60.	Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le serveur. Définir l’acronyme de ce type de requête. Si on ajoute un « S » à cet acronyme, expliquer la différence
