@@ -169,7 +169,7 @@ IV. Programmation orientée objet (POO)
 -   Le constructeur est une méthode spéciale de la classe qui est automatiquement appelée lorsqu'un nouvel objet de cette classe est crée/instancié 
 
 49.	Qu’est-ce que l’encapsulation ?
--   
+-   En PHP l'encapsulation consiste à déclarer les propriété "attributs" en private ou protected au lieu de public
 
 50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
 -
