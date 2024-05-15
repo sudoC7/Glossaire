@@ -172,7 +172,7 @@ IV. Programmation orientée objet (POO)
 -   En PHP l'encapsulation consiste à déclarer les propriété "attributs" en private ou protected au lieu de public
 
 50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
--
+-   ????
 
 51.	Définir l’opérateur de résolution de portée
 -
