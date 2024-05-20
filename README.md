@@ -172,7 +172,7 @@ IV. Programmation orientée objet (POO)
 -   En PHP l'encapsulation consiste à déclarer les propriété "attributs" en private ou protected au lieu de public
 
 50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
--   ????
+-   Lorsqu'une classe est étendue, la classe enfant hérite de toutes les méthodes publiques et protégées, propriétés et constantes de la classe parente
 
 51.	Définir l’opérateur de résolution de portée
 -
