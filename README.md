@@ -175,10 +175,10 @@ IV. Programmation orientée objet (POO)
 -   Lorsqu'une classe est étendue, la classe enfant hérite de toutes les méthodes publiques et protégées, propriétés et constantes de la classe parente
 
 51.	Définir l’opérateur de résolution de portée
--
+-   C'est un "::" (double deux-points), il fournit un moyen d’accèder aux membres une contante, une propriété statique, ou une méthode statique d'une classe ou de l'une de ses classes parentes
 
 52.	Définir une méthode / propriété statique
--
+-   Une méthode est une fonction déclaré dans une classe, et la propriété (attributs) statique est une variable statique appartenant à la classe elle même
 
 53.	Définir le polymorphisme en POO
 -
