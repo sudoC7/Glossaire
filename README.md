@@ -181,7 +181,7 @@ IV. Programmation orientée objet (POO)
 -   Une méthode est une fonction déclaré dans une classe, et la propriété (attributs) statique est une variable statique appartenant à la classe elle même
 
 53.	Définir le polymorphisme en POO
--
+-   Il permet à la même méthode d'executer des comportements différents de deux manières: le remplacement de méthode et la surcharge de méthode 
 
 54.	Définir une méthode / classe abstraite ?
 -
